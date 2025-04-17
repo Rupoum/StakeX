@@ -2,7 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 body {
-  /* @apply bg-gradient-to-r from-[#0f0015] via-[#0f0015] to-[#0f0015]; */
+  @apply bg-gradient-to-r from-[#0f0015] via-[#0f0015] to-[#0f0015];
+  @apply bg-gradient-to-r from-[#0f0015] via-[#0f0015] to-[#0f0111];
   font-family: "Inter", sans-serif;
 }
 
