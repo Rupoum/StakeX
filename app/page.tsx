@@ -7,6 +7,7 @@ export default function Home() {
       <Navbar />
       <div className="px-20 mt-5">
         <PopularGames />
+        <div>hello</div>
       </div>
     </>
   );
